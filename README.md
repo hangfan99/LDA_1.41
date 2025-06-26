@@ -8,7 +8,7 @@ This repository contains the implementation of latent data assimilation (LDA) me
 - ✅ OSSE-based experiments using:
   - Latent 3D-Var (L3DVar)
   - Latent 4D-Var (L4DVar)
-- 📄 Example notebook: [`LDA_OSSE.ipynb`](./LDA_OSSE.ipynb)
+- 📄 Example notebook: [`LDA_OSSE.ipynb`](./DA_exps/LDA_OSSE.ipynb)
 
 ## Availability
 
