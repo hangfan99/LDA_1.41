@@ -14,3 +14,5 @@ This repository contains the implementation of latent data assimilation (LDA) me
   📄 [`Latent_Var.py`](./LDA_Methods/Latent_Var.py)
 - ✅ An Observing System Simulation Experiment (OSSE) example to apply LDA.
   📄 Example notebook: [`LDA_OSSEs.ipynb`](./DA_exps/LDA_OSSEs.ipynb)
+
+The checkpoints for models are provided in https://zenodo.org/records/17210930.
