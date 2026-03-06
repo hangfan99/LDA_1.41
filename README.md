@@ -16,3 +16,11 @@ This repository contains the implementation of latent data assimilation (LDA) me
   📄 Example notebook: [`LDA_OSSEs.ipynb`](./DA_exps/LDA_OSSEs.ipynb)
 
 The checkpoints for models are provided in https://zenodo.org/records/17210930.
+
+
+## Paper
+Fan, H., Bai, L., Fei, B., Xiao, Y., Chen, K., Liu, Y., Qu, Y., Ling, F., & Gentine, P.  
+**Physically consistent global atmospheric data assimilation with machine learning in latent space.**  
+*Science Advances*, 2026.
+
+Paper link: https://www.science.org/doi/10.1126/sciadv.aea4248
